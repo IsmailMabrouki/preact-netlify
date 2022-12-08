@@ -4,7 +4,7 @@ import style from './style';
 
 const Header = () => (
 	<header class={style.header}>
-		<Link href="/"><h1>Novels new Promise((resolve, reject) => {
+		<Link href="/"><h1>Novels News Promise((resolve, reject) => {
 			
 		})</h1></Link>
 		<nav>
