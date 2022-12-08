@@ -18,7 +18,7 @@ module.exports = () => {
 
 	// adding blogs list posts page
 	pages.push({
-		url: '/Blogs/',
+		url: '/blogs/',
 		data: blogs
 	});
 
